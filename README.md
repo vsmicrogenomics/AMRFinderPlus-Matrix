@@ -18,4 +18,9 @@ The script defines a function process_file() that takes the file path and the el
 The input and output directories are defined as input and output, respectively. The script loops over each element type (AMR, STRESS, VIRULENCE) and processes the files for that element type. The binary matrix for each element type is saved in a separate file in the output directory.
 
 Acknowledgements
-This script is based on the code snippets provided in the AMRFinderPlus documentation.
+This script is based on the code snippets provided in the AMRFinderPlus documentation available at https://github.com/ncbi/amr/wiki/.
+
+If you are using the `AMRFinderPlus-Matrix.py` script, please cite it as follows:
+
+Sharma, V. (2023). AMRFinderPlus-Matrix.py [Computer software]. Retrieved from https://github.com/vsmicrogenomics/AMRFinderPlus-Matrix
+
