@@ -22,7 +22,7 @@ Test files:
 The test directory contains input and output sub-directories containing test files for the AMRFinderPlus-Matrix.py script. These files are used to verify that the script is working correctly.
 
 Acknowledgements:
-This script is based on the code snippets provided in the AMRFinderPlus documentation available at https://github.com/ncbi/amr/wiki/.
+This script is designed to process the output files of AMRFinderPlus and generate a binary matrix that shows the presence or absence of antibiotic resistance genes, stress response genes, and virulence genes in each sample. The AMRFinderPlus documentation is available at https://github.com/ncbi/amr/wiki/.
 
 If you are using the `AMRFinderPlus-Matrix.py` script, please cite it as follows:
 Sharma, V. (2023). AMRFinderPlus-Matrix.py [Python script]. Retrieved from https://github.com/vsmicrogenomics/AMRFinderPlus-Matrix
