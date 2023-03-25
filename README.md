@@ -1,7 +1,7 @@
 # AMRFinderPlus-Matrix
 
 AMRFinderPlus-Matrix.py:
-AMRFinderPlus-Matrix.py is a Python script for processing the output files of AMRFinderPlus and generating a binary matrix that shows the presence or absence of antibiotic resistance genes, stress response genes, and virulence genes in each sample.
+It is a Python script for processing the output files of AMRFinderPlus and generating a binary matrix that shows the presence or absence of antibiotic resistance genes, stress response genes, and virulence genes in each sample.
 
 Prerequisites:
 Python 3.7 or above
