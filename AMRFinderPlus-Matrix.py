@@ -1,3 +1,15 @@
+#!/usr/bin/env python3
+
+"""
+AMRFinderPlus-Matrix.py
+
+This script processes the output files of AMRFinderPlus and generates a binary matrix
+that shows the presence or absence of antibiotic resistance genes, stress response
+genes, and virulence genes in each sample.
+
+Written by Vikas Sharma, 2023
+"""
+
 import pandas as pd
 import os
 
