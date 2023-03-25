@@ -22,5 +22,5 @@ This script is based on the code snippets provided in the AMRFinderPlus document
 
 If you are using the `AMRFinderPlus-Matrix.py` script, please cite it as follows:
 
-Sharma, V. (2023). AMRFinderPlus-Matrix.py [Computer software]. Retrieved from https://github.com/vsmicrogenomics/AMRFinderPlus-Matrix
+Sharma, V. (2023). AMRFinderPlus-Matrix.py. Retrieved from https://github.com/vsmicrogenomics/AMRFinderPlus-Matrix
 
