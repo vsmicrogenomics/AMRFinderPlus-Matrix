@@ -16,7 +16,7 @@ The script reads the input files from the input directory and processes each fil
 
 The script defines a function process_file() that takes the file path and the element type as arguments. It reads the file into a pandas dataframe, filters the rows for the specified element type, selects only the relevant columns, and drops any duplicate rows.
 
-The input and output directories are defined as input and output, respectively. The script can be run as 'python AMRFinderPlus-Matrix.py'
+The input and output directories are defined as input and output, respectively. The script can be run as 'python AMRFinderPlus-Matrix.py'.
 
 The script loops over each element type (AMR, STRESS, VIRULENCE) and processes the files for that element type. The binary matrix for each element type is saved in a separate file in the output directory.
 
